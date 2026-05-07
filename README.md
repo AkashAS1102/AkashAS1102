@@ -21,13 +21,13 @@ Engineering student interested in full-stack development, AI-powered tools, dash
 
 ## Tech Stack
 
-```text
+`	ext
 Languages: JavaScript, TypeScript, Python, Java, C
 Frontend: HTML, CSS, React, Next.js
 Backend: Node.js
 Tools: Git, GitHub, VS Code
 Interests: AI tools, dashboards, automation, agriculture tech
-```
+`
 
 ## Connect
 

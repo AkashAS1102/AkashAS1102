@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" role="img" aria-labelledby="title"><title id="title">Animated pastel coding cat robot with a laptop</title>
+<style>
+.float{animation:float 4s ease-in-out infinite}.blink{animation:blink 5s infinite;transform-origin:160px 141px}.pulse{animation:pulse 3s ease-in-out infinite}.spark{animation:pulse 2s ease-in-out infinite alternate}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@keyframes blink{0%,42%,46%,100%{transform:scaleY(1)}44%{transform:scaleY(.1)}}
+@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+@media(prefers-reduced-motion:reduce){.float,.blink,.pulse,.spark{animation:none}}
+</style>
+<ellipse cx="160" cy="292" rx="91" ry="12" fill="#B4A1DC" opacity=".18"/>
+<g class="pulse" fill="none" stroke="#CBA6F7" stroke-width="1.4"><ellipse cx="160" cy="168" rx="145" ry="64" transform="rotate(-22 160 168)"/><circle cx="160" cy="166" r="125" stroke-dasharray="3 12" opacity=".6"/></g>
+<g class="spark" fill="#89DCEB"><path d="m38 79 3 8 8 3-8 3-3 8-3-8-8-3 8-3Z"/><circle cx="284" cy="198" r="4"/></g>
+<g class="float" stroke="#746498" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M116 203Q96 252 120 269H203Q225 252 207 203" fill="#E0D5F3"/>
+<path d="M207 246Q255 223 247 258Q244 280 217 271" fill="none" stroke="#CBA6F7" stroke-width="12"/>
+<path d="M95 105 87 53Q85 43 99 52L132 86M191 86 224 52Q236 44 234 56L228 107" fill="#E0D5F3"/>
+<path d="m99 64 4 31 18-8M215 64l-6 26 15 6" fill="#F5C2E7" stroke="none"/>
+<rect x="80" y="85" width="160" height="120" rx="48" fill="#EEE8F8"/>
+<rect x="97" y="112" width="126" height="68" rx="26" fill="#1E1E2E" stroke="#B4A1DC"/>
+<g class="blink" fill="#89DCEB" stroke="none"><rect x="119" y="132" width="12" height="20" rx="6"/><rect x="188" y="132" width="12" height="20" rx="6"/></g>
+<path d="M150 151q10 10 20 0" fill="none" stroke="#F5C2E7" stroke-width="3"/>
+<circle cx="111" cy="166" r="5" fill="#F5C2E7" opacity=".8" stroke="none"/><circle cx="210" cy="166" r="5" fill="#F5C2E7" opacity=".8" stroke="none"/>
+<path d="M159 85V70" stroke="#89DCEB"/><circle cx="159" cy="64" r="7" fill="#89DCEB" stroke="#746498"/>
+<rect x="96" y="218" width="132" height="64" rx="9" fill="#262637" stroke="#746498"/>
+<path d="m137 239-12 9 12 9m47-18 12 9-12 9m-19-13-8 23" stroke="#CBA6F7" fill="none"/>
+<path d="M87 283H237" stroke="#746498" stroke-width="7"/>
+<ellipse cx="92" cy="238" rx="12" ry="15" fill="#EEE8F8"/><ellipse cx="233" cy="238" rx="12" ry="15" fill="#EEE8F8"/>
+</g></svg>

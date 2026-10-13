@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="90" viewBox="0 0 1280 90" role="img" aria-labelledby="title">
-  <title id="title">Build. Learn. Iterate.</title>
-  <defs><linearGradient id="line"><stop stop-color="#57E6ED" stop-opacity="0"/><stop offset=".3" stop-color="#57E6ED"/><stop offset=".7" stop-color="#B58AFF"/><stop offset="1" stop-color="#B58AFF" stop-opacity="0"/></linearGradient></defs>
-  <rect width="1280" height="90" rx="14" fill="#0A1021"/>
-  <path d="M40 22H1240" stroke="url(#line)"/>
-  <text x="640" y="58" text-anchor="middle" fill="#A8BAD4" font-family="Consolas,'Courier New',monospace" font-size="18" letter-spacing="5">BUILD. LEARN. ITERATE.</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="80" viewBox="0 0 960 80" role="img" aria-labelledby="title"><title id="title">Create. Connect. Keep building.</title><rect width="960" height="80" rx="16" fill="#181825"/><path d="M40 20H920" stroke="#CBA6F7" stroke-opacity=".3"/><text x="480" y="52" text-anchor="middle" fill="#BAC2DE" font-family="Consolas,monospace" font-size="16" letter-spacing="4">CREATE. CONNECT. KEEP BUILDING.</text></svg>

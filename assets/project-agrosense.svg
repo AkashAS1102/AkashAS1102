@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280" role="img" aria-labelledby="title"><title id="title">AgroSense</title>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#1E1E2E"/><stop offset="1" stop-color="#181825"/></linearGradient></defs>
+<rect x="1" y="1" width="598" height="278" rx="20" fill="url(#bg)" stroke="#A6E3A1" stroke-opacity=".28"/>
+<circle cx="550" cy="-10" r="135" fill="#A6E3A1" opacity=".055"/>
+<path d="M31 26H65" stroke="#A6E3A1" stroke-width="3" stroke-linecap="round"/>
+<g font-family="'Segoe UI',Arial,sans-serif">
+<text x="31" y="64" font-size="13" fill="#A6E3A1" letter-spacing="2.5">AI / DATA</text>
+<text x="31" y="121" font-size="36" fill="#CDD6F4" font-weight="700">AgroSense</text>
+<text x="31" y="161" font-size="19" fill="#BAC2DE">Crop recommendations &amp; agriculture insights</text>
+<text x="31" y="199" font-size="16" fill="#A6ADC8">TypeScript · Python · FastAPI</text>
+<text x="31" y="250" font-size="15" fill="#A6E3A1" font-weight="600">EXPLORE REPOSITORY ↗</text>
+<text x="529" y="66" font-size="22" fill="#A6E3A1" opacity=".6">03</text>
+</g></svg>

@@ -5,7 +5,7 @@
   <br /><br />
   <a href="mailto:akashasakash3@gmail.com"><img src="./assets/badge-email.svg" width="120" alt="Email Akash" /></a>
   <a href="https://github.com/AkashAS1102"><img src="./assets/badge-github.svg" width="120" alt="Akash on GitHub" /></a>
-  <a href="#projects"><img src="./assets/badge-projects.svg" width="120" alt="Explore my projects" /></a>
+  <a href="#user-content-projects"><img src="./assets/badge-projects.svg" width="120" alt="Explore my projects" /></a>
   <br /><br />
   <strong>From thoughtful interfaces to intelligent applications.</strong>
 </div>

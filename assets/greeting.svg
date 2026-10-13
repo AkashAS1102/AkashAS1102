@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="120" viewBox="0 0 800 120" role="img" aria-labelledby="title"><title id="title">Hey there, I&#x27;m Akash AS! Full Stack Engineer &amp; AI Engineer</title>
-<defs><clipPath id="reveal"><rect width="800" height="90"><animate attributeName="width" values="0;800;800" keyTimes="0;.3;1" dur="7s" repeatCount="indefinite"/></rect></clipPath></defs>
+<defs><clipPath id="reveal"><rect width="800" height="90"><animate attributeName="width" values="0;800;800" keyTimes="0;.3;1" dur="3s" repeatCount="1" fill="freeze"/></rect></clipPath></defs>
 <rect x="1" y="1" width="798" height="118" rx="22" fill="#181825" stroke="#CBA6F7" stroke-opacity=".25"/>
 <text x="400" y="49" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="35" font-weight="700" fill="#CBA6F7" clip-path="url(#reveal)">Hey there, I'm Akash AS!</text>
 <text x="400" y="87" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="22" fill="#CDD6F4">Full Stack Engineer &amp; AI Engineer</text>
